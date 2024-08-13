@@ -1,0 +1,24 @@
+* {
+    /* Emmet */
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main {
+
+}
+
+#container {
+    min-width: 100%;
+    min-height: 60%;
+    background-color: aqua;
+}
+
+#dino {
+
+}
+
+#description {
+
+}
